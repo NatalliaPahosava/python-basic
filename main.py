@@ -51,5 +51,20 @@ print(word,str(digit),boolean)
 str_num="5"   #string
 #int()
 print(number + int(str_num))
+#### 
 #never do defferent data type
 #print(word+number+boolean)
+
+num1=int(input("first number:"))
+num2=int(input("second number:"))
+num1+=6
+
+print("Result: ",num1+num2)
+print("Result: ",num1-num2)
+print("Result: ",num1/num2)
+print("Result: ",num1*num2)
+print("Result: ",num1**num2)
+print("Result: ",num1//num2)
+
+print(word*2)
+
